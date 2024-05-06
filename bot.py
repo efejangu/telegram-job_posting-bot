@@ -2,7 +2,7 @@ import botogram
 from json import load
 import random
 
-API_TOKEN = '7147611462:AAE4uzznS58PzuTHhnh7H5PvnOzPjw2HvTg'
+API_TOKEN = " INSERT Token here  "
 
 my_bot = botogram.create(API_TOKEN)
 my_bot.about = 'Your pal for navigating the Nigerian Job market'
